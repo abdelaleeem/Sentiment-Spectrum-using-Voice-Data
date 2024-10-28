@@ -3,7 +3,7 @@
 This was a a task assigned to me when I was applying for a ML Researcher Position and was asked to complete it in 2 hours.
 
 1. I was given 5817 wav files and an excel sheet with file name and a y value that represents the sentiment whether it's angry/happy/sad/etc...
-2. My approach was to use fast fourier transform to extract features from my records and then train a traditional ML model like XGBOOST.
+2. My approach was to use Fast Fourier Transform to extract features from my records and then train a traditional ML model like XGBOOST.
 
 # NOTES: 
 ---------
