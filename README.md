@@ -8,6 +8,6 @@ This was a a task assigned to me when I was applying for a ML Researcher Positio
 # NOTES: 
 ---------
 1. Didn't perform Hyperparameter tuning as the time was so tight.
-2. Didn't use traditional methods to extract the features like ffmpeg as the library didn't work and I didn't have the time to recognise the reason so I acted based upon what I have and what I can do right now.
+2. Didn't use traditional methods to extract the features like ffmpeg as the library didn't work and I didn't have the time to recognise the reason so I acted based upon what I have and what I can do right now BUT I got accepted for the next interview :).
 
 
